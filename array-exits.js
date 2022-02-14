@@ -29,6 +29,5 @@ function megaFriend(friends) {
 
 
 }
-
 const friends = ['tuhin', 'shahin', 'ruhin', 'doly', 'nursafa'];
 console.log(megaFriend(friends));
